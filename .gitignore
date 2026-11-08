@@ -1,0 +1,7 @@
+.env/
+.venv/
+.venv
+
+
+.venv/Lib/site-packages/pip/__init__.py
+backend/.env
