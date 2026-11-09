@@ -1,5 +1,4 @@
-'''Deterministic JD requirement coverage, independent of vector retrieval.'''
-
+"""Deterministic JD requirement coverage, independent of vector retrieval."""
 import re
 from rapidfuzz.fuzz import ratio
 from app.schemas.job import JDAnalysis, Requirement

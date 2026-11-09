@@ -1,6 +1,7 @@
 .env/
 .venv/
 .venv
+__pycache__/
 
 
 .venv/Lib/site-packages/pip/__init__.py
@@ -10,4 +11,4 @@ frontend/node_modules/
 frontend/node_modules/.bin/nanoid
 
 data/
-data/generated/resumes/Bebug_Faiz_Zaidi_AI_Engineer_Responsible_AI_Resume.docx
+data/generated/resumes/
