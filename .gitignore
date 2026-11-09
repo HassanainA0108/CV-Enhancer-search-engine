@@ -8,3 +8,6 @@ backend/.env
 frontend/vite.config.ts
 frontend/node_modules/
 frontend/node_modules/.bin/nanoid
+
+data/
+data/generated/resumes/Bebug_Faiz_Zaidi_AI_Engineer_Responsible_AI_Resume.docx
