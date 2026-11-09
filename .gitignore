@@ -1,7 +1,14 @@
 .env/
 .venv/
 .venv
+__pycache__/
 
 
 .venv/Lib/site-packages/pip/__init__.py
 backend/.env
+frontend/vite.config.ts
+frontend/node_modules/
+frontend/node_modules/.bin/nanoid
+
+data/
+data/generated/resumes/
